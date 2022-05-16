@@ -1,1 +1,30 @@
-hund
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="flexmobil.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <nav class="navigation">    
+            <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li class="user"><a href="#"><i class="fas fa-user"></i></a></li>
+                    <li class="user"><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                    <li class="user"><a href="#"><i class="fas fa-sign-out-alt"></i></a></li>
+                </ul>
+
+
+        </nav>
+
+    </main>
+
+
+</body>
+</html>
